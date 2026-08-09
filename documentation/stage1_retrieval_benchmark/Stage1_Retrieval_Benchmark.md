@@ -1,4 +1,4 @@
-# Stage 1 — Retrieval Benchmarking
+# Stage 1 - Retrieval Benchmarking
 
 ## 1. Objective
 The objective of Stage 1 was to empirically evaluate alternative retrieval strategies for the Legal RAG pipeline and identify a suitable retrieval configuration for subsequent stages.
