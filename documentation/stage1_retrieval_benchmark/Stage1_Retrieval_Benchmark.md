@@ -206,7 +206,9 @@ Dense retrieval currently uses NumPy similarity rather than FAISS.
 Results are benchmark-dependent and should not be treated as universally representative.
 ## 12. Reproducibility
 Datasets
+
 FIRE AILA: 197 statutes, 50 queries
+
 LegalBench-RAG: 4,876 passages, 100 queries
 
 Models / Methods
