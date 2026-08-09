@@ -1,0 +1,3 @@
+Dataset,Best_Method,MAP,BPREF,MRR
+FIRE AILA,Hybrid Score Fusion,0.1109,0.0704,0.2812
+LegalBench-RAG,Hybrid Score Fusion,0.2754,0.1900,0.2754

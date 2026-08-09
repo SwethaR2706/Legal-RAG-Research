@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+lrag/
+.venv/
+venv/
+
+# Generated indexes and embeddings
+data/indexes/
+
+# Local datasets and corpus
+data/datasets/
+data/corpus/
+
+# Hugging Face cache
+.huggingface/
+huggingface_cache/
+
+# Local experiment artifacts
+*.npy
+
+# Temporary package inspection
+installed_packages.txt
