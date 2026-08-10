@@ -300,10 +300,15 @@ The following artifacts are preserved for reproducibility and
 inspection:
 
 results/stage2/
+
 ├── cat3_pilot_predictions.jsonl
+
 ├── cat3_results.csv
+
 ├── cat4_2_pilot_predictions.jsonl
+
 ├── cat4_2_results.csv
+
 └── stage2_summary.json
 
 The JSONL prediction files preserve the individual model outputs,
