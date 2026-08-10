@@ -1,0 +1,24 @@
+{
+  "stage": 2,
+  "benchmark": "LegalCiteBench",
+  "evaluation": "pilot",
+  "cat3": {
+    "records": 40,
+    "detection_accuracy": 0.625,
+    "error_type_accuracy_on_fake": 0.1,
+    "correction_accuracy_on_fake": 0.0,
+    "correct_detections": 25,
+    "correct_error_types": 2,
+    "correct_corrections": 0,
+    "fake_records": 20
+  },
+  "cat4_2": {
+    "records": 40,
+    "verification_accuracy": 0.925,
+    "case_name_accuracy": 0.175,
+    "citation_accuracy": 0.45,
+    "correct_verifications": 37,
+    "correct_case_names": 7,
+    "correct_citations": 18
+  }
+}

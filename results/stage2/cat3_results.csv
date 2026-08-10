@@ -1,0 +1,41 @@
+id,qa_style,gold_is_correct,predicted_is_correct,detection_correct,gold_error_type,predicted_error_type,error_type_correct,gold_correction,predicted_correction,correction_correct
+12422463,3-true,True,True,True,,,False,,,False
+12569680,3-true,True,True,True,,,False,,,False
+12334389,3-true,True,True,True,,,False,,,False
+12417022,3-true,True,True,True,,,False,,,False
+12460362,3-true,True,True,True,,,False,,,False
+12575829,3-true,True,True,True,,,False,,,False
+12663879,3-true,True,True,True,,,False,,,False
+12691575,3-true,True,True,True,,,False,,,False
+12655597,3-true,True,True,True,,,False,,,False
+12416983,3-true,True,True,True,,,False,,,False
+12382064,3-true,True,True,True,,,False,,,False
+12366992,3-true,True,True,True,,,False,,,False
+12555575,3-true,True,True,True,,,False,,,False
+12386938,3-true,True,True,True,,,False,,,False
+12679056,3-true,True,False,False,,volume,False,,"353 mont.is not a valid citation for the montana supreme court,it should be a different reporter",False
+12460351,3-true,True,True,True,,,False,,,False
+12681731,3-true,True,True,True,,,False,,,False
+12375667,3-true,True,True,True,,,False,,,False
+12571386,3-true,True,False,False,,series,False,,mont,False
+12559114,3-true,True,True,True,,,False,,,False
+12665299,3-fake,False,False,True,volume,series,False,3 cir.11,la.app.5 cir,False
+12278902,3-fake,False,True,False,page,,False,400 u.s.74,,False
+12558444,3-fake,False,True,False,volume,,False,510 n.w.2d 612,,False
+12382932,3-fake,False,True,False,volume,,False,973 s.w.2d 485,,False
+12460616,3-fake,False,False,True,page,page,True,79 n.j.251,251,False
+12456432,3-fake,False,False,True,page,volume,False,2009 mt 228,2009 mt 218,False
+12692214,3-fake,False,False,True,volume,volume,True,526 so.2d 547,525,False
+12314215,3-fake,False,True,False,volume,,False,207 md.app.666,,False
+12313977,3-fake,False,True,False,volume,,False,306 md.84,,False
+12422463,3-fake,False,True,False,series,,False,133 so.3d 1020,,False
+12386085,3-fake,False,True,False,page,,False,237 ky.730,,False
+12343002,3-fake,False,False,True,page,series,False,216 p.3d 55,alaska,False
+12514314,3-fake,False,True,False,volume,,False,429 u.s.452,,False
+12656463,3-fake,False,False,True,page,series,False,501 s.w.3d 17,3d,False
+12359862,3-fake,False,True,False,series,,False,27 n.e.3d 793,,False
+12414409,3-fake,False,True,False,page,,False,305 or 22,,False
+12555737,3-fake,False,True,False,page,,False,251 mich.app.260,,False
+12565029,3-fake,False,True,False,page,,False,320 p.3d 291,,False
+12663879,3-fake,False,True,False,series,,False,65 so.3d 553,,False
+12386878,3-fake,False,False,True,page,series,False,993 s.w.2d 45,tex,False
