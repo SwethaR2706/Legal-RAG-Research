@@ -52,14 +52,17 @@ LegalCiteBench Record
         v
    Verification
       Model
+      
         |
         v
  Structured JSON
    Prediction
+   
         |
         v
  Deterministic
    Evaluation
+   
         |
         v
  Metrics + CSV
