@@ -47,6 +47,7 @@ The Stage 2 verification pipeline is independent of the retrieval
 pipeline.
 
 LegalCiteBench Record
+
         |
         v
    Verification
