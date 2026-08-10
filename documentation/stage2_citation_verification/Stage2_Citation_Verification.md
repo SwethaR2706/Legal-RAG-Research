@@ -348,18 +348,22 @@ The two stages address different components:
 
 Stage 1
 Retrieval Evaluation
+
         |
         v
 Can relevant legal evidence
 be retrieved?
+
         |
         v
 Stage 2
 Legal Citation Verification
+
         |
         v
 Can legal citations and
 case authorities be verified?
+
         |
         v
 Stage 3
